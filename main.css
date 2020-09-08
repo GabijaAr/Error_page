@@ -1,0 +1,41 @@
+body {
+    background-color: #eaebed
+    }
+    main {
+
+        }
+        div{
+
+            }
+            img {
+
+            }
+            h1{
+            display: inline-block;
+            float: left;
+            width: 100%;
+            font-size: 70px;
+            color: #222c36;
+            margin: 0;
+            }
+            p{
+
+            }
+            p:nth-of-type(2){
+                display: inline-block;
+                float: left;
+                width: 100%;
+                font-size: 12px;
+                margin-top: 18px;
+                color: #9a9aa4;
+            }
+            a { 
+                text-decoration: none;
+                text-transform: uppercase;
+                background-color: #696e8b;
+                padding: 11px;
+                color: white;
+                font-size: 13px;
+                font-weight: bold;
+                display: inline-block;
+            }
