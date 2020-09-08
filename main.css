@@ -1,11 +1,19 @@
 body {
-    background-color: #eaebed
+    background-color: #eaebed;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     main {
-
+        width: 600px;
+        display: inline-block;
+        margin-top: 100px;
+        margin-left: 350px;
         }
         div{
-
+        width: 50%;
+        display: inline-block;
+        float: left;
+        
             }
             img {
 
@@ -19,7 +27,13 @@ body {
             margin: 0;
             }
             p{
-
+            display: inline-block;
+            float: left;
+            width: 100%;
+            font-size: 15px;
+            color: #646579;
+            font-weight: bold;
+            margin-bottom: 26px;
             }
             p:nth-of-type(2){
                 display: inline-block;
